@@ -51,5 +51,5 @@ I’m open to collaborations involving:
 
 ### Contact
 
-### - [Lattes Curriculum](http://lattes.cnpq.br/1648008249256524) - [ORCID](https://orcid.org/0000-0003-4118-294X) - [ResearchGate](https://www.researchgate.net/profile/Ana-Bulla?ev=hdr_xprf) - [LinkedIn](https://www.linkedin.com/in/ana-carolina-silva-bulla-a74b23a6/)
+###[Lattes Curriculum](http://lattes.cnpq.br/1648008249256524) - [ORCID](https://orcid.org/0000-0003-4118-294X) - [ResearchGate](https://www.researchgate.net/profile/Ana-Bulla?ev=hdr_xprf) - [LinkedIn](https://www.linkedin.com/in/ana-carolina-silva-bulla-a74b23a6/)
   
