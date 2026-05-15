@@ -11,7 +11,7 @@ Computational Biophysics | Proteins | Immunoinformatics
 <div align="left">
 
 ### About me
-
+---
 I am a Brazilian... 
 
 Currently, I'm involved in the...
@@ -31,7 +31,7 @@ I am especially interested in bridging:
 
 ---
 
-# Scientific Interests
+### Scientific Interests
 
 - AI for Biology
 - Predictive Omics
@@ -39,7 +39,7 @@ I am especially interested in bridging:
 
 ---
 
-# Open to Collaborations
+### Open to Collaborations
 
 I’m open to collaborations involving:
 
