@@ -31,7 +31,8 @@ My recent work also includes:
 
 ---
 
-## Tools and languages
+### Tools and languages
+
 - Molecular modeling and simulation: Modeller, AlphaFold, AMBER Tools, VMD, PyMOL, Linux OS
 - Data analysis and visualization: R, ggplot2
 
@@ -44,6 +45,13 @@ My recent work also includes:
 - Proteins
 - Biostatistics
 - AI for Biology
+
+---
+
+### Recommended reading
+
+[Selected books and articles that I recommend.]()
+
 
 ---
 
