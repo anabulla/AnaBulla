@@ -14,7 +14,7 @@ A list of books and articles that influenced my thinking in computational biophy
   
 
 
-### Articles and resources
+### Communities and resources
 
 - [R Documentation](https://www.r-project.org/)
 - [ggplot2](https://ggplot2.tidyverse.org)
