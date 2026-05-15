@@ -55,11 +55,7 @@ My recent work also includes:
 
 ---
 
-### Open to Collaborations
-
-I’m open to collaborations involving:
-
-- Bioin
+### Open to Collaboration
 
 ---
 
