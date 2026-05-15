@@ -33,8 +33,9 @@ My recent work also includes:
 
 ### Tools and languages
 
-- Molecular modeling and simulation: Modeller, AlphaFold, AMBER Tools, VMD, PyMOL, Linux OS
+- Molecular modeling and simulation: Modeller, AlphaFold, AMBER Tools, VMD, PyMOL
 - Data analysis and visualization: R, ggplot2
+- OS: Linux, Windows
 
 ---
 
