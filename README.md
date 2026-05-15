@@ -14,28 +14,31 @@ Computational Biophysics | Proteins | Immunoinformatics
 ---
 I am a Brazilian... 
 
-Currently, I'm involved in the...
-
-
 My research background includes:
 
 - M
-
-My recent work also includes:
-- AI 
-
-I am especially interested in bridging:
-- Biology + Artificial Intelligence
 - 
 
+My recent work also includes:
+- AI
+
+---
+<div align="left">
+
+### Current Projects
+---
+#### - Ph.D. Research:
+- 
 
 ---
 
 ### Scientific Interests
 
+- Molecular Modelling
+- Structure biology
+- Proteins
+-  
 - AI for Biology
-- Predictive Omics
-- 
 
 ---
 
