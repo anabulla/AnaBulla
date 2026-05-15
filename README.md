@@ -1,38 +1,10 @@
-<div align="center">
+<div align="left">
 
 # Ana Carolina Bulla, PhD candidate.
 
 ### Bioinformatics & Artificial Intelligence
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=AI+for+Biological+Discovery;Bioinformatics+%7C+Metatranscriptomics;Predictive+Toxicology+and+Multi-omics+Integration;Structural+Bioinformatics+and+Molecular+Dynamics;Host%E2%80%93Microbiome+Interactions;Scientific+Automation+and+Open-Source+Development;Deep+Learning+for+Omics+Data;Environmental+Toxicology+and+AI;Building+AI-assisted+Scientific+Pipelines" />
-
 </div>
-
----
-
-<p align="left">
-
-<a href="https://www.youtube.com/channel/UCYGRIEqYgVDAq-BBIEYdTzw">
-<img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCYGRIEqYgVDAq-BBIEYdTzw?color=%23E05D44&label=YouTube&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-</a>
-
-<a href="https://www.youtube.com/channel/UCYGRIEqYgVDAq-BBIEYdTzw">
-<img alt="YouTube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCYGRIEqYgVDAq-BBIEYdTzw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-</a>
-
-<a href="https://github.com/caiocheohen?tab=followers">
-<img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/caiocheohen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
-
-<a href="https://github.com/caiocheohen?tab=repositories&sort=stargazers">
-<img alt="GitHub stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/caiocheohen?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-</a>
-
-</p>
-
-<a href="https://www.youtube.com/@cheohen?sub_confirmation=1">
-  <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
 
 ---
 
