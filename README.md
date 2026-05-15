@@ -1,8 +1,8 @@
 <div align="left">
 
-# Ana Carolina Bulla, PhD candidate.
+# Ana Carolina Bulla, PhD student.
 
-### Bioinformatics & Artificial Intelligence
+##### Bioinformatics & Artificial Intelligence
 
 </div>
 
