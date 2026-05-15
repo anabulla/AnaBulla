@@ -51,7 +51,7 @@ My recent work also includes:
 
 ### Recommended reading
 
-[Selected books and articles that I recommend.]()
+[Selected books and articles that I recommend.](./recommended_reading.md)
 
 
 ---
