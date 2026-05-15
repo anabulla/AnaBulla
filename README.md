@@ -26,8 +26,8 @@ My recent work also includes:
 <div align="left">
 
 ### Current Projects
-#### - Ph.D. Research:
-- 
+##### 
+- Ph.D. Research:
 
 ---
 
