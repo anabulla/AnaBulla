@@ -1,6 +1,6 @@
 # Recommended Reading
 
-A list of books and articles that influenced my thinking in computational biophysics, statistics, data visualization, and R.
+A list of books and articles that influenced my thinking in statistics, data visualization, and R.
 
 ### Books
 
