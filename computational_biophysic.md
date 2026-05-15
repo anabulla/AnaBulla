@@ -1,4 +1,4 @@
-#Recommended Reading
+# Recommended Reading
 
 A list of books and articles that influenced my thinking in computational biophysics.
 
