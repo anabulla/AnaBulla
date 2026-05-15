@@ -31,12 +31,18 @@ My recent work also includes:
 
 ---
 
+## Tools and languages
+- Molecular modeling and simulation: Modeller, AlphaFold, AMBER Tools, VMD, PyMOL, Linux OS
+- Data analysis and visualization: R, ggplot2
+
+---
+
 ### Scientific Interests
 
 - Molecular Modelling
 - Structure biology
 - Proteins
--  
+- Biostatistics
 - AI for Biology
 
 ---
