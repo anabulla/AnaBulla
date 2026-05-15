@@ -1,6 +1,6 @@
 <div align="center">
 
-# Caio Cheohen, PhD.
+# Ana Carolina Bulla, PhD candidate.
 
 ### Bioinformatics & Artificial Intelligence
 
