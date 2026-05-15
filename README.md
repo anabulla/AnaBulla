@@ -2,8 +2,8 @@
 
 # Ana Carolina Bulla, PhD student.
 
-###### Biomedical Scientist | MSc and PhD student in Computational Biology at Fiocruz
-###### Computational Biophysics | Proteins | Immunoinformatics
+##### Biomedical Scientist | MSc and PhD student in Computational Biology at Fiocruz
+Computational Biophysics | Proteins | Immunoinformatics
 
 </div>
 
