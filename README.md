@@ -8,6 +8,9 @@ Computational Biophysics | Proteins | Immunoinformatics
 </div>
 
 ---
+<div align="left">
+
+### About me
 
 I am a Brazilian... 
 
