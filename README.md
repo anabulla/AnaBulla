@@ -10,35 +10,6 @@ Computational Biophysics | Proteins | Immunoinformatics
 ---
 <div align="left">
 
-### About me
----
-I am a Brazilian... 
-
-My research background includes:
-
-- M
-- 
-
-My recent work also includes:
-- AI
-
----
-<div align="left">
-
-### Current Projects
-##### 
-- Ph.D. Research:
-
----
-
-### Tools and languages
-
-- Molecular modeling and simulation: Modeller, AlphaFold, AMBER Tools, VMD, PyMOL
-- Data analysis and visualization: R, ggplot2
-- Linux
-
----
-
 ### Scientific Interests
 
 - Molecular Modelling
@@ -53,7 +24,6 @@ My recent work also includes:
 
 [Selected books and articles that I recommend.](./recommended_reading.md)
 
-
 ---
 
 ### Open to Collaboration
@@ -62,7 +32,7 @@ My recent work also includes:
 
 <div align="left">
 
-### 📫Contact
+### You can find me on:
 
 ###### [Lattes Curriculum](http://lattes.cnpq.br/1648008249256524) - [ORCID](https://orcid.org/0000-0003-4118-294X) - [ResearchGate](https://www.researchgate.net/profile/Ana-Bulla?ev=hdr_xprf) - [LinkedIn](https://www.linkedin.com/in/ana-carolina-silva-bulla-a74b23a6/) - [Google scholar](https://scholar.google.com.br/citations?user=Inuv3O4AAAAJ&hl=pt-BR)
   
